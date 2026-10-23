@@ -1,0 +1,7 @@
+edge-tts>=6.1.0
+openai-whisper>=20240930
+numpy>=1.26.0
+ffmpeg-python>=0.2.0
+pydub>=0.25.1
+python-dotenv>=1.0.0
+torch>=2.2.0
